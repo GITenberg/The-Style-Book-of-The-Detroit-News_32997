@@ -1,0 +1,33 @@
+_repo: The-Style-Book-of-The-Detroit-News_32997
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Detroit news
+    gutenberg_agent_id: '36152'
+    url: http://www.gutenberg.org/2009/agents/36152
+  editor:
+    agent_name: Weeks, A. L. (Albert Loren)
+    alias: Weeks, Albert Loren
+    birthdate: 1888
+    deathdate: 1963
+    gutenberg_agent_id: '36153'
+    url: http://www.gutenberg.org/2009/agents/36153
+description: ''
+gutenberg_issued: '2010-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32997'
+  lccn: '19010299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Printing -- Style manuals'
+- !lcsh 'Journalism -- Style manuals'
+- !lcc 'Z'
+title: The Style Book of The Detroit News
+url: http://www.gutenberg.org/ebooks/32997
